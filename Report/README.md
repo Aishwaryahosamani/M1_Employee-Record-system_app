@@ -17,6 +17,10 @@
    * LLR04              Update the existing password and username into new password and username.
 
 
+![swot analysis](https://user-images.githubusercontent.com/46986941/155399416-d8cfb77f-df8e-48ac-bafa-fd6872ac64f5.png)
+09fc5e0d6.png)
+
+
   ## 5W and 1H
 
    * WHAT 
@@ -36,6 +40,30 @@
    
    * HOW 
       Digital mode
+      
+    # Architecture
+    
+    * Behavioral 
+    
+    Activity diagram
+    
+    ![activity diagram](https://user-images.githubusercontent.com/46986941/155399393-4b666a94-6ada-4a85-aa91-38a355ee123a.png)
+
+ Use case diagram
+ 
+ 
+  ![USE CASE](https://user-images.githubusercontent.com/46986941/155399398-95488960-7ee6-4bda-b70c-ff3
+
+   * Structural diagram
+     
+     class diagram
+      
+      ![class](https://user-images.githubusercontent.com/46986941/155399230-7adfd395-30e5-4dcf-b2b3-846cd2032ab2.png)
+      
+     component diagram
+     
+     ![component diagram ](https://user-images.githubusercontent.com/46986941/155399249-78f80d19-0d4f-49b6-9f1b-e43a0233d57a.png)
+
       
       
      # Test Plan
