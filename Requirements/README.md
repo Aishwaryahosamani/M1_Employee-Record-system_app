@@ -17,7 +17,12 @@
    * LLR04              Update the existing password and username into new password and username.
 
 
-  ## 5W and 1H
+# SWOT ANALYSIS
+
+![swot analysis](https://user-images.githubusercontent.com/46986941/155388375-839ed5cc-5a54-4c02-9dbd-799a49967fb1.png)
+ 
+ 
+ ## 5W and 1H
 
    * WHAT 
        
