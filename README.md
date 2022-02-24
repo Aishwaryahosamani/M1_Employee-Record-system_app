@@ -20,7 +20,7 @@
  * codiga
  
  ![Codiga Badge](https://api.codiga.io/project/31449/score/svg)
- 
+ !{Codiga Badge](https://api.codiga.io/project/31449/status/svg)
 
  # References
  
