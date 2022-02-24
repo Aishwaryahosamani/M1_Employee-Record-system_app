@@ -17,7 +17,10 @@
  * codacy
  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b4d684934fb44d70bf2fc12ee6c95b30)](https://www.codacy.com/gh/Aishwaryahosamani/M1_Employee-Record-system_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Aishwaryahosamani/M1_Employee-Record-system_app&amp;utm_campaign=Badge_Grade)
  
- # codiga
+ * codiga
+ 
+ ![Codiga Badge](https://api.codiga.io/project/31449/score/svg)
+ 
 
  # References
  
