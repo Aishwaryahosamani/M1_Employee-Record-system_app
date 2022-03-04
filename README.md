@@ -28,6 +28,7 @@
 
 [![Cppcheck](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml)
  
+ [![Cppcheck](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml)
 
 
  # References
