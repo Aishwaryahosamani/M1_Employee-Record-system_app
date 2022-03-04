@@ -31,13 +31,12 @@ employee management system .
  
 * Cpp check
 
-[![Cppcheck](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml)
+[![Cppcheck](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cpp%20check.yml)
 
 * Git Inspector
 
 
-[![Contribution Check - Git Inspector](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/Git%20Inspector.yml)
- 
+
  
 
 
