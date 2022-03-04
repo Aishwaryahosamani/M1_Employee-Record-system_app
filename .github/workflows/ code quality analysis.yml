@@ -1,4 +1,4 @@
-name: Cppcheck
+name: Dynamic code analysis
 
 on:
   push:
