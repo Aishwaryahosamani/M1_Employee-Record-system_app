@@ -24,20 +24,6 @@
  ![Codiga Badge](https://api.codiga.io/project/31449/status/svg)
  
  
-* Cpp check
-
-[![Cppcheck](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml)
-
-
-* Git Inspector
-
-[![Contribution Check - Git Inspector](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/Git%20Inspector.yml)
-
-* Dynamic code analysis
-
-
-[![Dynamic code analysis](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Aishwaryahosamani/M1_Employee-Record-system_app/actions/workflows/cppcheck.yml)
-
 
 
  # References
