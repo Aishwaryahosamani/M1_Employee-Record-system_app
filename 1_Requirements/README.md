@@ -2,14 +2,15 @@
 
 
   ## High level requirements
-
-  
-   * HLR01             Adding the employee details
-   * HLR02             Searching the employee details
-   * HLR03             Deleting the  existing employee details
-   * HLR04             Update the username and password
-   * HLR05             View the employee details
- 
+   _______________________________________________________________
+   | ID         |           DESCRIPTION                          |
+   |____________|________________________________________________|
+   |HLR01       |      Adding the employee details               |
+   | HLR02      |       Searching the employee details           |
+   | HLR03      |      Deleting the  existing employee details   |
+   | HLR04      |     Update the username and password           |
+   | HLR05      |    View the employee details                   |
+   _______________________________________________________________
  
  ## Low level requirements
 
