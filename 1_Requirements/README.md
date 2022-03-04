@@ -5,18 +5,18 @@
    
    
    
-   * HLR01                Adding the employee details   
-   * HLR02                Searching the employee details    
-   * HLR03                Deleting the  existing employee details 
-   * HLR04                Update the username and password     
-   * HLR05                 View the employee details                   
+   * HLR01                        Adding the employee details   
+   * HLR02                        Searching the employee details    
+   * HLR03                        Deleting the  existing employee details 
+   * HLR04                        Update the username and password     
+   * HLR05                        View the employee details                   
    
  ## Low level requirements
 
-   * LLR01              Add the employee  id,employee   name,father name,date of joining. 
-   * LLR02             Search the employee   details by using their employee   id.
-   * LLR03             Delete the employee   details by using their employee   id.
-   * LLR04              Update the existing password and username into new password and username.
+   * LLR01                       Add the employee  id,employee   name,father name,date of joining. 
+   * LLR02                       Search the employee   details by using their employee   id.
+   * LLR03                       Delete the employee   details by using their employee   id.
+   * LLR04                       Update the existing password and username into new password and username.
 
 
 SWOT ANALYSIS
