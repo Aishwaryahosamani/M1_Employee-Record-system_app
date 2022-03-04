@@ -1,5 +1,10 @@
 # M1_Employee-Record-system_app
 
+# State of art\Research
+
+As traditional method of record system takes a long time and is inefficient. Paper records and ledgers are used in manual accounting operations, which require time to go through, record, and route through the system.Sometimes it is prone to making mistakes.Security is a problem in manual method hence this led to development of the 
+employee management system .
+
  ## Folder structure
  
  |   Folder           |Description                         | 
