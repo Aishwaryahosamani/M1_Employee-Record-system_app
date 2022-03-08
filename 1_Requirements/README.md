@@ -27,26 +27,5 @@
  
   ## 5W and 1H
 
-   * WHAT 
-       
-       To manage the employee records.
    
-   * WHERE 
-       
-       Companies,industries,government offices,etc...
-  
-   * WHEN 
-   
-       Whenever we need to add/delete/update the details.
- 
-   * WHY 
-      
-      To manage the features of the record
-   
-   * WHO 
-      
-      Employes,admin,other office members
-   
-   * HOW 
-      
-      Digital mode
+![image](https://user-images.githubusercontent.com/46986941/157170047-c3d5b715-aef2-45da-b102-1e1185ac19c1.png)
